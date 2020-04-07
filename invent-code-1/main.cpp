@@ -8,3 +8,5 @@ int main() {
   cout<<" I'm 22 years old.";
   cout<< endl;
 }
+
+publish_all
