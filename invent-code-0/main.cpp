@@ -3,5 +3,9 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout<<"I love driving and long drives.\n";
+  cout<<"I've got over 20 baby aloe plants growing.";
+  cout<<endl;
+  cout<<"I'm a newly wed.";
+  cout<< endl;
 }

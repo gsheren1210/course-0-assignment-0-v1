@@ -3,5 +3,7 @@
 using namespace std;
 
 int main() {
-  // Write code here.
+  cout<<"My favorite colour is red. ";
+  cout<<"I was born in Indonesia.";
+  cout<<" I'm 22 years old.";
 }
